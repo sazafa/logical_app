@@ -14,7 +14,6 @@ diagrams illustrates the set $P^{1} \cup Q^{1}$?
 
 $$
 \begin
-	\centering
-	\includegraphics[width=0.8\linewidth]{"VEN 21"}
+\includegraphics[width=0.8\linewidth]{"VEN 21"}
 \end
 $$
