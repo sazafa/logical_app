@@ -12,6 +12,9 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 d) Which of the shaded regions in thee Venn
 diagrams illustrates the set $P^{1} \cup Q^{1}$?
 
+
+k_{n+1} = n^2 + k_n^2 - k_{n-1}
+
 \begin{tikzpicture}
 	
 \coordinate (c1) at (0,0);
