@@ -20,7 +20,7 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 	$\textbf{DENIS ACKON}$
  
 	**SECOND ASSESSMENT**
- 
+ \textbf{cats}
 
 	                                                                                                      Time: 1 hour
 
