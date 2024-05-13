@@ -52,12 +52,13 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 (b) The operation * is defined on the set Q, of rational numbers by a * b = $\frac{ab}{a + b}$, a + b $\neq$ 0. Show whether * is associative or not.\\
 
-4. Let * be a binary operation defined on the set Z of integers by a * b = a + b + 2 for all a, b Z.\\
-i. Show that * is commutative and associative.\\
-ii. Find the identity element with respect to Z.\\
-iii. Find the inverse of a Z.\\
+4. Let * be a binary operation defined on the set Z of integers by a * b = a + b + 2 for all a, b Z.
+   
+i. Show that * is commutative and associative.
+ii. Find the identity element with respect to Z.
+iii. Find the inverse of a Z.
 
-5. (a) Show that the function $f(x) = \frac{x - 3}{x + 2}$ is one – to - one.\\ 
+6. (a) Show that the function $f(x) = \frac{x - 3}{x + 2}$ is one – to - one.\\ 
 
 (b) Find the largest possible domain of the function $k(t) = \sqrt{t + 4}$\\
 
