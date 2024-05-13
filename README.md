@@ -55,27 +55,33 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 4. Let * be a binary operation defined on the set Z of integers by a * b = a + b + 2 for all a, b Z.
    
 i. Show that * is commutative and associative.
+
 ii. Find the identity element with respect to Z.
+
 iii. Find the inverse of a Z.
 
-6. (a) Show that the function $f(x) = \frac{x - 3}{x + 2}$ is one – to - one.\\ 
+6. (a) Show that the function $f(x) = \frac{x - 3}{x + 2}$ is one – to - one.
 
-(b) Find the largest possible domain of the function $k(t) = \sqrt{t + 4}$\\
+(b) Find the largest possible domain of the function $k(t) = \sqrt{t + 4}$
 
-(c) Find the range of the function $f(x) = \frac{x - 1}{x + 2}$\\
+(c) Find the range of the function $f(x) = \frac{x - 1}{x + 2}$
 
-6. If $f(x) = 3x - 2$ and $g(x) = x^2$, find;\\
-i. $(f + g)(2)$\\
-ii. $(f – g)(2)$\\
-iii. $(fog)(2)$\\
-iv. $(gof)(-2)$\\
+6. If $f(x) = 3x - 2 and g(x) = x^2$, find;
+   
+i. $(f + g)(2)$
 
-7. Three functions are defined on he set of real numbers by $f(x) = 2x + 1$, $g(x) = 3x – 2$ and $h(x) = x + 5$. Show that $(fog)oh = fo(goh)$\\
+ii. $(f – g)(2)$
 
-8.  If $f(x) = \frac{x + 1}{x - 3}$, find $f^{-1}(x)$\\
+iii. $(fog)(2)$
 
-9. Solve $x^2 = 13x - 36 = 0$\\
+iv. $(gof)(-2)$
 
-10.	In a survey of 100 out-patient who reported at the hospital one day, it was found out that 70 complained of \textbf{Fever}, 50 complained of \textbf{Stomach} ache and 30 were \textbf{Injured}. All 100 patients had at least one of the complaints and 44 had exactly two(2) of the complaints. How many patients had \textbf{all three(3) complaints}?
+8. Three functions are defined on he set of real numbers by $f(x) = 2x + 1$, $g(x) = 3x – 2$ and $h(x) = x + 5$. Show that $(fog)oh = fo(goh)$
+
+9.  If $f(x) = \frac{x + 1}{x - 3}$, find $f^{-1}(x)$
+
+10. Solve $x^2 = 13x - 36 = 0$
+
+11.	In a survey of 100 out-patient who reported at the hospital one day, it was found out that 70 complained of \textbf{Fever}, 50 complained of \textbf{Stomach} ache and 30 were \textbf{Injured}. All 100 patients had at least one of the complaints and 44 had exactly two(2) of the complaints. How many patients had \textbf{all three(3) complaints}?
 
 
