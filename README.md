@@ -44,7 +44,7 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 2.(a) Express $\frac{2 + \sqrt{3}}{4 - \sqrt{3}}$ in the form $a + b$$\sqrt{3}$\\
 
-(b) Solve $\sqrt{2x + 2} - \sqrt{x - 3} = 2$\\
+(b) Solve $\sqrt{2x + 2} - \sqrt{x - 3} = 2$
 
 (c) Find the \textbf{square root} of $7 + 4\sqrt{3}$
 
