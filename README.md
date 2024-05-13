@@ -48,7 +48,7 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 (c) Find the \textbf{square root} of $7 + 4\sqrt{3}$
 
-3. (a)  If a $\ast$ b = $a^2$ – 2ab, where \textbf{a, b} $\in $ \textbf{R}. Find a if a  $\ast$ 4 = 9
+3. (a)  If a $\ast$ b = $a^2$ – 2ab, where $\textbf{a, b} \in  \textbf{R}$. Find a if a  $\ast$ 4 = 9
 
 (b) The operation * is defined on the set Q, of rational numbers by a * b = $\frac{ab}{a + b}$, a + b $\neq$ 0. Show whether * is associative or not.\\
 
