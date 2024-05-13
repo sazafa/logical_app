@@ -17,7 +17,7 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 
 
-	\textbf{DENIS ACKON}
+	$\textbf{DENIS ACKON}$
  
 	**SECOND ASSESSMENT**
  
