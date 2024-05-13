@@ -21,10 +21,9 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
  
 	$\textbf{SECOND ASSESSMENT}$
  
-\end{center}
-\begin{flushright}
-	Time: 1 hour
-\end{flushright}
+
+	                                                                                                      Time: 1 hour
+
 
 $\textbf{\textit{ANSWER ALL THE QUESTIONS}}$
 
