@@ -17,9 +17,9 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 
 
-	****DENIS ACKON
+	**DENIS ACKON**
  
-	****SECOND ASSESSMENT
+	**SECOND ASSESSMENT**
  
 
 	                                                                                                      Time: 1 hour
