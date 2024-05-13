@@ -17,30 +17,20 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 
 
-
-\documentclass[onecolumn]{book}
-\usepackage{amsmath,amssymb,amsfonts}
-\usepackage{graphicx}
-\usepackage{tikz}
-\usepackage[margin=1cm]{geometry}
-\usepackage[onehalfspacing]{setspace}
-\usepackage{color}
-\usepackage{multicol}
-\usepackage{xcolor}
-\usepackage{venndiagram}
-\parindent 0ex %THIS WILL REMOVE THE INDENT
-
-\begin{document}
-\begin{center}
-	\textbf{DENIS ACKON}\\
-	\textbf{SECOND ASSESSMENT}\\
+	$\textbf{DENIS ACKON}$
+ 
+	$\textbf{SECOND ASSESSMENT}$
+ 
 \end{center}
 \begin{flushright}
 	Time: 1 hour
 \end{flushright}
-\textbf{\textit{ANSWER ALL THE QUESTIONS}}\\
-\textit{All working must be clearly shown. Marks will not be awarded for correct answers without corresponding  working}\\
-1. In the city of Kwadaso, 60 people own \textbf{cats}, \textbf{dogs} or \textbf{rabbits}. If 30 people owned \textbf{cats}, 40 owned \textbf{dogs}, 10 owned \textbf{rabbits} and 12 owned exactly two of the three types of pet. How many people own all the three?\\
+
+$\textbf{\textit{ANSWER ALL THE QUESTIONS}}$
+
+$\textit{All working must be clearly shown. Marks will not be awarded for correct answers without corresponding  working}$
+
+1. In the city of Kwadaso, 60 people own \textbf{cats}, \textbf{dogs} or \textbf{rabbits}. If 30 people owned $\textbf{cats}$, 40 owned $\textbf{dogs}$, 10 owned $\textbf{rabbits}$ and 12 owned exactly two of the three types of pet. How many people own all the three?
 
 2.(a) Express $\frac{2 + \sqrt{3}}{4 - \sqrt{3}}$ in the form $a + b\sqrt{3}$
 
